@@ -20,11 +20,11 @@ VALUES
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
-  ('John', 'Doe', 1, NULL),
-  ('Jane', 'Smith', 2, 1),
-  ('Michael', 'Johnson', 3, NULL),
-  ('Emily', 'Brown', 4, 3),
-  ('Sarah', 'Davis', 5, NULL),
+  ('James', 'Heard', 1, NULL),
+  ('Wilma', 'Harper', 2, 1),
+  ('Rose', 'Theobalds', 4, NULL),
+  ('Brooke', 'Carter', 3, 3),
+  ('Nolen', 'Senior', 5, NULL),
   ('William', 'Martinez', 6, 5),
   ('David', 'Garcia', 7, NULL),
   ('Elizabeth', 'Rodriguez', 8, 7);
